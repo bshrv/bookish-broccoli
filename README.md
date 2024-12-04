@@ -6,4 +6,8 @@ https://dev.to/prodevopsguytech/50-devops-project-ideas-to-build-your-skills-fro
 
 https://medium.com/@ericfflynn/the-ultimate-starters-guide-to-nginx-7aa8489e460e
 
-https://gitlab.zoom.us/w/94067007143?tk=1tYf8G-UkWIOD5Ygc08kp2KDwQayzQUq6MokmNi-0rc.DQcAAAAV5tSepxZ4SWw5RnV4TlJ0ZXVycDVfTHdCRDhnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=szQaT0GUd0MbZLF9MU62EhA4A13bN9.1&uuid=WN_SrGszpp-QY6XlBst0H0uaQ
+https://aws.amazon.com/awstv/watch/afcca136745/
+
+https://aws.amazon.com/id/awstv/watch/b1724505b53/
+
+https://aws.amazon.com/ar/awstv/watch/afcca136745/
