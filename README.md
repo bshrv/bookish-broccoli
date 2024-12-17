@@ -13,3 +13,5 @@ https://aws.amazon.com/id/awstv/watch/b1724505b53/
 https://aws.amazon.com/ar/awstv/watch/afcca136745/
 
 https://codepen.io/markmead/pen/YjQKeZ
+
+https://medium.com/towards-data-science/the-comprehensive-guide-to-training-and-running-yolov8-models-on-custom-datasets-22946da259c3
