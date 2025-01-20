@@ -20,3 +20,7 @@ https://medium.com/towards-data-science/the-comprehensive-guide-to-training-and-
 
 # Tiger style
 https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
+
+
+
+https://awsfaceliveness.kube.etdbm.mn/unverified?token=ewnglR6IdUgBEYyM7ABZ3Jt4KoHmmXSbvovWZNY-&sys=1
