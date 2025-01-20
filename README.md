@@ -23,4 +23,4 @@ https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 
 
 
-https://awsfaceliveness.kube.etdbm.mn/unverified?token=ewnglR6IdUgBEYyM7ABZ3Jt4KoHmmXSbvovWZNY-&sys=1
+https://awsfaceliveness.kube.etdbm.mn/unverified?token=o2hJe1h3fKgkNYYaBRZFdoliaSQqJ4gVfWrlz_O0&sys=1
