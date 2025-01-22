@@ -23,3 +23,5 @@ https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 
 
 https://awsfaceliveness.kube.etdbm.mn/unverified?token=73jeHX3RuF9pRCzQ_jP6FLrh2TKC49UCj5aDllZ3&sys=1
+
+chrome://flags/#unsafely-treat-insecure-origin-as-secure
