@@ -22,5 +22,4 @@ https://medium.com/towards-data-science/the-comprehensive-guide-to-training-and-
 https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 
 
-
-https://awsfaceliveness.kube.etdbm.mn/unverified?token=jIi2KjxFzDSDqeqCqihsP2P6RXlQFOMe6djgzLxu&sys=1
+https://awsfaceliveness.kube.etdbm.mn/unverified?token=3OMUZEhIh6N34J1KO1lS5CbWX9vOgVxt6ecS0m6f&sys=1
