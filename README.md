@@ -25,3 +25,6 @@ https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 EUGIII3ZCC5ULC4UX5Y3VLVLW4SSVXW4BPGR7HYEECC2XV2FJP7FLNHWVNSJJ6PH
 
 chrome://flags/#unsafely-treat-insecure-origin-as-secure
+
+
+https://en.wikipedia.org/wiki/Box-drawing_characters
