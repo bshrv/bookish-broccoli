@@ -29,4 +29,3 @@ chrome://flags/#unsafely-treat-insecure-origin-as-secure
 
 https://en.wikipedia.org/wiki/Box-drawing_characters
 
-https://aws-faceliveness-nextjs.kube.etdbm.mn/unverified?token=lztxk_hMYvGRwI2wzMycaXdg48AtqW3PBJGAjggI&sys=3
