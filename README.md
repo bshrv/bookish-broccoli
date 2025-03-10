@@ -26,6 +26,7 @@ EUGIII3ZCC5ULC4UX5Y3VLVLW4SSVXW4BPGR7HYEECC2XV2FJP7FLNHWVNSJJ6PH
 
 chrome://flags/#unsafely-treat-insecure-origin-as-secure
 
+https://www.securonix.com/wp-content/uploads/2022/08/Bank_Detect_Cyber_Insider_Threats_Securonix.pdf 
 
 https://en.wikipedia.org/wiki/Box-drawing_characters
 
