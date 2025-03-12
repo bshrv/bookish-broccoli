@@ -30,3 +30,4 @@ https://www.securonix.com/wp-content/uploads/2022/08/Bank_Detect_Cyber_Insider_T
 
 https://en.wikipedia.org/wiki/Box-drawing_characters
 
+https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber
