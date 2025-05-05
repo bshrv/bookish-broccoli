@@ -33,3 +33,5 @@ https://en.wikipedia.org/wiki/Box-drawing_characters
 https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber
 
 https://dev.to/somadevtoo/the-software-design-system-design-interview-preparation-roadmap-with-resources-1no0
+
+https://www.ecloudcontrol.com/restrict-a-linux-user-to-specific-kubernetes-namespace/
