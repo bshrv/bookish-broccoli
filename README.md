@@ -35,3 +35,5 @@ https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-
 https://dev.to/somadevtoo/the-software-design-system-design-interview-preparation-roadmap-with-resources-1no0
 
 https://www.ecloudcontrol.com/restrict-a-linux-user-to-specific-kubernetes-namespace/
+
+https://urldefense.proofpoint.com/v2/url?u=https-3A__forms.office.com_r_ajkiYq02rz&d=DwMGaQ&c=D2Q_fiIJioGYWoVJ9p6K9yh8XrTGXKs1PJBNJbZGtek&r=pWoG5Yzz2CmdsguSoUgl8F2Zjpg9Ye7MBzLKBEqZ2f0&m=Qhs2W960atVyoCB9mxwlVwSqVWQiEpsTpmbeQWaAgd7WAYr8ewkH8BadRygxaTHj&s=_kmptUQ_dYAXO2eOMhcHp46aT7goIKnloz-Obj-CXiM&e=
